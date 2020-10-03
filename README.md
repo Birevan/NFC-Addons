@@ -16,7 +16,7 @@ Here you can find various things I've made or ported for [New Frontier Craft](ht
 
 * Lightning beacon
 
-# [Texture packs](texturepacks)
+## [Texture packs](texturepacks)
 
 * [**LegacyPack**](texturepacks/LegacyPack) — adapted font for JalC support *TODO*
 
