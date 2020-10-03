@@ -1,0 +1,14 @@
+§aVattic's Faithful for NFC 1.8.7
+§bCheck pack.txt for credits.
+
+
+
+
+
+Credits:
+Roadhog360: Porting the Alpha 1.7.3 Faithful by m4_semperfi to NFC, and doing a handful of basic textures.
+davee0: Contributing many textures, including various ore blocks. Definitely not possible without him.
+Buumcreeper: Most of the items. He cut out a lot of our work.
+Sleepygravel: Some armour sets.
+
+Vattic: The original Faithful boi.
