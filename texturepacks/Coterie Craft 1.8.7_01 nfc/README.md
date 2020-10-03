@@ -6,7 +6,7 @@ Supports Panorama, Bottom Chest Texture and [JalC](../../mods/Just%20a%20little%
 
 * [NFC 1.8.7](../Coterie%20Craft%201.8.7_01%20nfc.zip)
 
-[![Coterie Craft](https://i.imgur.com/nggoe4M.png)](https://newfrontiercraft.net/thread/131/coterie-craft-cpt-corn-nfc)
+[![Coterie Craft](https://i.imgur.com/nggoe4M.png)](https://newfrontiercraft.net/thread/131/coterie-craft-cpt-corn-nfc "Click to see more screenshots")
 
 Originally by Cpt_Corn:
 
