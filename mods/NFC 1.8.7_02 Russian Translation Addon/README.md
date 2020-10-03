@@ -2,7 +2,7 @@
 
 Full translation of NFC including most splashes into Russian.
 
-Does not require the installation of [Just a little Cyrillic](../Just%20a%20little%20Cyrillic) addon, already contains same font. However, if you just want to add Cyrillic support (namely letters of the Russian, Ukrainian, Belarusian and Mongolian alphabets) to the client or server, you can use JalC instead of Russian Translation. JalC doesn't translate the game.
+Does not require the installation of [Just a little Cyrillic](../Just%20a%20little%20Cyrillic) addon, already contains same font. However, if you just want to add Cyrillic support (namely letters of the Russian, Ukrainian, Belarusian and Mongolian alphabets) to the client or server, you can use JalC instead of Russian Translation. JalC doesn’t translate the game.
 
 **Installation:** add all from [zip](../NFC%201.8.7_02%20Russian%20Translation%20Addon.zip) to the client jar.
 
