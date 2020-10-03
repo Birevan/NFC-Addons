@@ -11,7 +11,7 @@ Does not require the installation of [Just a little Cyrillic](../Just%20a%20litt
 ***
 # [RUS] Русский язык в NFC 1.8.7
 
-Клиент не требует установки JalC для работы, уже содержит шрифт.
+Клиент не требует установки [JalC](../Just%20a%20little%20Cyrillic) для работы, уже содержит шрифт.
 
 **Установка:** добавьте всё из [архива](../NFC%201.8.7_02%20Russian%20Translation%20Addon.zip) в jar клиента.
 
