@@ -1,6 +1,6 @@
 # Coterie Craft by Cpt_Corn for NFC
 
-Supports Panorama, Bottom Chest Texture and [JalC](../../mods/Just%20a%20little%20Cyrillic.zip) addons.
+Supports Panorama, Water Biome Colors (optional), Bottom Chest Texture and [JalC](../../mods/Just%20a%20little%20Cyrillic.zip) addons.
 
 **Download versions:**
 
