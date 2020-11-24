@@ -18,7 +18,7 @@ Here you can find various things I’ve made or ported for [New Frontier Craft](
 
 ## [Texture packs](texturepacks)
 
-* [**Legacypack**](texturepacks/LegacyPack) — adapted font for JalC support *TODO*
+* [**Legacypack**](texturepacks/LegacyPack) — adapted font for JalC support *WIP*
 
 * [**CrispyClouds** Pack](texturepacks/CrispyClouds%20Pack%20Final) — adapted font for JalC support
 
